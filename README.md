@@ -97,6 +97,7 @@ The chart indicate that there is no much significant difference in smoking habit
 
 -The analysis indicate that older aged frequency of smokers are less compare to the younger age irrespective of the gender
 
+---
 
 ### Conclusion:
 - based on the dataset, the analysis indicate that both gender significantly have smoking habit but the female is slight it more than the male
