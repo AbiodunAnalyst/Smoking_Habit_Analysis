@@ -41,7 +41,7 @@ The chart indicate that there is no much significant difference in smoking habit
 ![](Analysis_2.JPG)
 
 - The analysis indicate that both married and single marrital status have a significant frequency of smoker than every other group
-- The divorse status also shows a spike of average of those that say no to smoking based on sample collected.
+- The divorse status also shows a spike of average of those that say yes to smoking based on sample collected.
 - The proportion of the single group that smoke is significant in numbers and proportion to those that say no
 ---
 
@@ -100,7 +100,7 @@ The chart indicate that there is no much significant difference in smoking habit
 ---
 
 ### Conclusion:
-- based on the dataset, the analysis indicate that both gender significantly have smoking habit but the female is slight it more than the male
+- based on the dataset, the analysis indicate that both gender significantly have smoking habit but the female is slightly more than the male
 - Analysis indicate that lower earners and those with no to lower education qualification possess more smoking habit to others
 - lower age group play a significant frequency of those with smoking habit compare to the older age
 - The british and the English shows a significant frequency of smokers to all others and the nationality also shows that the white are the major smokers
