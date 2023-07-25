@@ -100,7 +100,7 @@ The chart indicate that there is no much significant difference in smoking habit
 ---
 
 ### Conclusion:
-- based on the dataset, the analysis indicate that both gender significantly have smoking habit but the female is slightly more than the male
+- Based on the dataset, the analysis indicate that both gender significantly have smoking habit but the female is slightly more than the male
 - Analysis indicate that lower earners and those with no to lower education qualification possess more smoking habit to others
-- lower age group play a significant frequency of those with smoking habit compare to the older age
+- The younger age group play a significant frequency of those with smoking habit compare to the older age
 - The british and the English shows a significant frequency of smokers to all others and the nationality also shows that the white are the major smokers
