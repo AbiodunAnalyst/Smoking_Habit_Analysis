@@ -19,7 +19,7 @@ Data Source: The data was sourced from Kaggle
 8. investigate smoking habit based on age
 
 
-### Concept demonstrated:1
+### Concept demonstrated:
 
 The data set was analyse using python and the following process was incorporated:
 1. importing the data set into the jupiter environment
